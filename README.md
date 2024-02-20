@@ -27,11 +27,11 @@ It will download `dns-records.yml` on the current directory.
 In the `yml` file, every record block is structured in this way:
 
 ```yml
-  - id: 5386d80d340aea13c187b3877ca4dfbc
+  - id: egfoebfewfwfwef
     keep: true
     name: acelords.com
     type: A
-    content: 76.76.21.21
+    content: 127.0.0.1
 ```
 
 Setting the `keep: true` to `keep: false` shalld elete it form the CLoudFlare DNS.
