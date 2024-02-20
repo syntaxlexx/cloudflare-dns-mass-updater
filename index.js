@@ -5,17 +5,12 @@ const yaml = require("js-yaml");
 const validDns = [
   "acelords.com",
   "www.acelords.com",
-  "mail.acelords.com",
-  "www.mail.acelords.com",
-  "routes.mail.acelords.com",
   "inertia-skeleton.acelords.com",
   "icons.acelords.com",
   "project-pegasus.acelords.com",
   "messenger-inertia.acelords.com",
   "markdownmail.acelords.com",
   "laraboo.acelords.com",
-  "invoices.acelords.com",
-  "_github-challenge-acelords.acelords.com",
 ];
 
 try {
