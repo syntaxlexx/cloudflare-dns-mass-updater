@@ -34,7 +34,7 @@ In the `yml` file, every record block is structured in this way:
     content: 127.0.0.1
 ```
 
-Setting the `keep: true` to `keep: false` shalld elete it form the CLoudFlare DNS.
+Setting the `keep: true` to `keep: false` shall delete it form the CLoudFlare DNS.
 
 Some of these records can be as many as 700+, and thus can be tedious doing it manually.
 
