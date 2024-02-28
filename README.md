@@ -52,7 +52,7 @@ node index.js
 Time to upload the changes!
 
 ## Upload Changes to CloudFlare DNS
-Runt he following command to update the DNS records. This might take a while to complete.
+Run the following command to update the DNS records. This might take a while to complete.
 
 ```bash
 cloudflare-utils --zone-id my-domain-zone-id  dns-cleaner upload
